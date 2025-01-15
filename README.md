@@ -2,7 +2,7 @@
 
 **Objective**
 
-The objective of this project is to develop a multiple linear regression model to predict the demand for shared bikes based on various influencing factors. This will help the bike-sharing company, BoomBikes, understand demand dynamics and refine their business strategy post-COVID-19 lockdowns.
+The objective of this project is to develop a multiple linear regression model to predict the demand for shared bikes based on various influencing factors. This will help the bike-sharing company, BoomBikes to understand demand dynamics and refine their business strategy post-COVID-19 lockdowns.
 
 **Problem Statement**
 
@@ -18,7 +18,7 @@ BoomBikes, a US-based bike-sharing service, experienced a significant decline in
     * Focused on relevant variables like temperature, season, weather conditions, and others that significantly affect bike-sharing demand.
 3. Model Building:
     * Used cnt (total rentals) as the target variable, which combines casual and registered user counts.
-    * Built a multiple linear regression model to identify the most significant predictors and their impact on demand.
+    * Built a **Multiple Linear Regression Model** to identify the most significant predictors and their impact on demand.
 4. Model Evaluation:
     * Assessed model performance using metrics like R-squared on both training and test datasets.
     * Conducted residual analysis to ensure the model's assumptions were met.
